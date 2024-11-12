@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "songs": [
+    {
+      "id": "Time is running out",
+      "title": "Time is running out",
+      "artist": "Lurcherr",
+      "bpm": 120,
+      "duration": 180,
+      "audioFile": "Time is running out/audio.mp3",
+      "chartFile": "Time is running out/chart.json",
+      "previewStart": 30,
+      "previewDuration": 15,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 1,
+          "chartFile": "song1/easy.json"
+        }
+      ],
+      "tags": ["electronic", "pop"],
+      "background": "song1/bg.jpg"
+    }
+  ]
+}
