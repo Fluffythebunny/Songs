@@ -7,8 +7,8 @@
       "artist": "Lurcherr",
       "bpm": 120,
       "duration": 180,
-      "audioFile": "Time is running out/audio.mp3",
-      "chartFile": "Time is running out/chart.json",
+      "audioFile": "timeisrunningout/audio.mp3",
+      "chartFile": "timeisrunningout/chart.json",
       "previewStart": 30,
       "previewDuration": 15,
       "difficulties": [
