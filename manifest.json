@@ -20,6 +20,26 @@
       ],
       "tags": ["electronic", "pop"],
       "background": "song1/bg.jpg"
+    },
+        {
+      "id": "An Enigmatic Encounter",
+      "title": "An Enigmatic Encounter",
+      "artist": "Benjamin Crimson",
+      "bpm": 120,
+      "duration": 180,
+      "audioFile": "anenigmentencounter/audio.mp3",
+      "chartFile": "anenigmentencounter/chart.json",
+      "previewStart": 30,
+      "previewDuration": 15,
+      "difficulties": [
+        {
+          "name": "Hard",
+          "level": 1,
+          "chartFile": "anenigmentencounter/chart.json"
+        }
+      ],
+      "tags": ["electronic", "pop"],
+      "background": "anenigmentencounter/bg.jpg"
     }
   ]
 }
